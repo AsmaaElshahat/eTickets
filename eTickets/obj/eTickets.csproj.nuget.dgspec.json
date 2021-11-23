@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MVC\\eTickets App\\eTickets App\\eTickets\\eTickets.csproj": {}
+    "D:\\MVC\\eTickets\\eTickets\\eTickets.csproj": {}
   },
   "projects": {
-    "D:\\MVC\\eTickets App\\eTickets App\\eTickets\\eTickets.csproj": {
+    "D:\\MVC\\eTickets\\eTickets\\eTickets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MVC\\eTickets App\\eTickets App\\eTickets\\eTickets.csproj",
+        "projectUniqueName": "D:\\MVC\\eTickets\\eTickets\\eTickets.csproj",
         "projectName": "eTickets",
-        "projectPath": "D:\\MVC\\eTickets App\\eTickets App\\eTickets\\eTickets.csproj",
+        "projectPath": "D:\\MVC\\eTickets\\eTickets\\eTickets.csproj",
         "packagesPath": "C:\\Users\\Asmaa\\.nuget\\packages\\",
-        "outputPath": "D:\\MVC\\eTickets App\\eTickets App\\eTickets\\obj\\",
+        "outputPath": "D:\\MVC\\eTickets\\eTickets\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
